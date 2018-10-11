@@ -22,3 +22,4 @@ Cleaned out my bookmarks and wanted to have a place to store the fun stuff.
 - https://davidwalsh.name/add-styles-console
 - http://ianlunn.github.io/Hover/
 - https://visitmaine.com/quarterly/road-trips
+- https://www.nytimes.com/interactive/2018/10/11/style/this-is-18.html#home - NYT thisis18 landing page
