@@ -14,9 +14,11 @@ Cleaned out my bookmarks and wanted to have a place to store the fun stuff.
 - https://css-tricks.com/animate-to-an-inline-style/ (had a js generated width that had to be inlined, this was a great way to be able to still give it keyframe animations)
 - https://atendesigngroup.com/blog/array-map-filter-and-reduce-js - Array Map, Filter and Reduce in JS
 - https://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/ - What mutates an array?
-- https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history - interactive rebase guide
 - https://daveceddia.com/context-api-vs-redux/
 - https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400 currying. also defined as "prepare or flavor with a sauce of hot-tasting spices"
+
+###### C#
+- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
 
 ###### Funsies
 - http://jsfiddle.net/uc9c5/2/
