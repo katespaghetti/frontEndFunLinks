@@ -1,6 +1,9 @@
 # frontEndFunLinks
 Cleaned out my bookmarks and wanted to have a place to store the fun stuff.
 
+the difference between master and develop
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative master..branch-X
+
 ###### Usefulish
 - https://placeholder.com/
 - https://developers.facebook.com/tools/debug/
