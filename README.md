@@ -31,6 +31,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://www.nytimes.com/interactive/2018/10/11/style/this-is-18.html#home - NYT thisis18 landing page
 - https://css-tricks.com/red-reveal-illusions-web/
 - https://beta.observablehq.com/@mbostock/fit-text-to-circle
+- https://css-tricks.com/aspect-ratios-svg/ - aspect ratios svg
 
 ##### Grid
 - https://gedd.ski/post/tile-layouts/
