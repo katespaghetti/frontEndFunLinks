@@ -29,5 +29,10 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - http://ianlunn.github.io/Hover/
 - https://visitmaine.com/quarterly/road-trips
 - https://www.nytimes.com/interactive/2018/10/11/style/this-is-18.html#home - NYT thisis18 landing page
-
+- https://css-tricks.com/red-reveal-illusions-web/
 - https://beta.observablehq.com/@mbostock/fit-text-to-circle
+
+##### Grid
+- https://gedd.ski/post/tile-layouts/
+- https://www.youtube.com/watch?v=DCZdCKjnBCs&__s=ipdjo6hw7evst4uqm88w&utm_source=drip&utm_medium=email&utm_campaign=CSS+Grid+in+45+Minutes%21+
+- https://www.reddit.com/r/web_design/comments/8ke4rh/the_power_to_overlap_items_with_css_grid_is_far/?st=JHCS8WFB&sh=732b43aa
