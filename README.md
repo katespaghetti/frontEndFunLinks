@@ -19,6 +19,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/ - What mutates an array?
 - https://daveceddia.com/context-api-vs-redux/
 - https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400 currying. also defined as "prepare or flavor with a sauce of hot-tasting spices"
+- https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/ multi-col for masonry layout
 
 ###### C#
 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
