@@ -4,7 +4,7 @@ Cleaned out my bookmarks and wanted to have a place to store the fun stuff.
 the difference between master and develop
 git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative master..branch-X
 
-###### Usefulish
+###### Useful(and useful-ish)
 - https://placeholder.com/
 - https://developers.facebook.com/tools/debug/
 - http://www.1x1px.me/
@@ -20,6 +20,8 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://daveceddia.com/context-api-vs-redux/
 - https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400 currying. also defined as "prepare or flavor with a sauce of hot-tasting spices"
 - https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/ multi-col for masonry layout
+- https://reactjs.org/docs/thinking-in-react.html
+- https://reactjs.org/docs/composition-vs-inheritance.html
 
 ###### C#
 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
