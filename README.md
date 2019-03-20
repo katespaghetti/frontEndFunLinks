@@ -36,6 +36,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://beta.observablehq.com/@mbostock/fit-text-to-circle
 - https://css-tricks.com/aspect-ratios-svg/ - aspect ratios svg
 - https://css-tricks.com/people-talkin-shapes/
+- https://www.remove.bg/ - remove background
 
 ##### Grid
 - https://gedd.ski/post/tile-layouts/
