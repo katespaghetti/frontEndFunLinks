@@ -44,3 +44,6 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://gedd.ski/post/tile-layouts/
 - https://www.youtube.com/watch?v=DCZdCKjnBCs&__s=ipdjo6hw7evst4uqm88w&utm_source=drip&utm_medium=email&utm_campaign=CSS+Grid+in+45+Minutes%21+
 - https://www.reddit.com/r/web_design/comments/8ke4rh/the_power_to_overlap_items_with_css_grid_is_far/?st=JHCS8WFB&sh=732b43aa
+
+##### CSS fun snippets
+- https://www.reddit.com/r/web_design/comments/bwtk83/simple_trick_to_make_your_boxshadows_look_much/?utm_source=share&utm_medium=ios_app box-shadow: 10px 10px 0 #ffd217, -20px 20px 0 #5ac7ff, 30px -30px 0 #ff0000, -40px -40px 0 #00ff00, 40px 30px 0 #440880;
