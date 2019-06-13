@@ -25,6 +25,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://daveceddia.com/context-api-vs-redux/
 - https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400 currying. also defined as "prepare or flavor with a sauce of hot-tasting spices"
 - https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/ multi-col for masonry layout
+- https://feathericons.com/ icon set (also part of react-icons)
 
 ###### Funsies
 - http://jsfiddle.net/uc9c5/2/
