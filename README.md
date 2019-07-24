@@ -26,6 +26,8 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400 currying. also defined as "prepare or flavor with a sauce of hot-tasting spices"
 - https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/ multi-col for masonry layout
 - https://feathericons.com/ icon set (also part of react-icons)
+- https://css-tricks.com/snippets/html/base64-encode-of-1x1px-transparent-gif/ transparent gif
+- https://andrew.hedges.name/experiments/aspect_ratio/ aspect ratio calculator
 
 ###### Funsies
 - http://jsfiddle.net/uc9c5/2/
@@ -40,6 +42,9 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://www.remove.bg/ - remove background
 - http://staticresource.com/dragon.js - make everything on the page draggable
 - https://howdns.works/ - how DNS works comic
+- https://css-tricks.com/lets-look-50-interesting-css-properties-values/ - CSS properties
+- https://codepen.io/plasm/pen/zwjMPy - particles write text
+- http://burakcan.github.io/react-snowstorm/ - react snowstorm
 
 ##### Grid
 - https://gedd.ski/post/tile-layouts/
