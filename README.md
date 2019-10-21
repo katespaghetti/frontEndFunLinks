@@ -22,12 +22,10 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://css-tricks.com/animate-to-an-inline-style/ (had a js generated width that had to be inlined, this was a great way to be able to still give it keyframe animations)
 - https://atendesigngroup.com/blog/array-map-filter-and-reduce-js - Array Map, Filter and Reduce in JS
 - https://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/ - What mutates an array?
-- https://daveceddia.com/context-api-vs-redux/
 - https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400 currying. also defined as "prepare or flavor with a sauce of hot-tasting spices"
-- https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/ multi-col for masonry layout
-- https://feathericons.com/ icon set (also part of react-icons)
 - https://css-tricks.com/snippets/html/base64-encode-of-1x1px-transparent-gif/ transparent gif
 - https://andrew.hedges.name/experiments/aspect_ratio/ aspect ratio calculator
+- https://superuser.com/questions/1421057/delete-an-unmerged-branch-in-git delete unmerged remote branch
 
 ###### Funsies
 - http://jsfiddle.net/uc9c5/2/
@@ -51,6 +49,3 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://gedd.ski/post/tile-layouts/
 - https://www.youtube.com/watch?v=DCZdCKjnBCs&__s=ipdjo6hw7evst4uqm88w&utm_source=drip&utm_medium=email&utm_campaign=CSS+Grid+in+45+Minutes%21+
 - https://www.reddit.com/r/web_design/comments/8ke4rh/the_power_to_overlap_items_with_css_grid_is_far/?st=JHCS8WFB&sh=732b43aa
-
-##### CSS fun snippets
-- https://www.reddit.com/r/web_design/comments/bwtk83/simple_trick_to_make_your_boxshadows_look_much/?utm_source=share&utm_medium=ios_app box-shadow: 10px 10px 0 #ffd217, -20px 20px 0 #5ac7ff, 30px -30px 0 #ff0000, -40px -40px 0 #00ff00, 40px 30px 0 #440880;
