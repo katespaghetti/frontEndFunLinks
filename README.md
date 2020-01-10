@@ -26,6 +26,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://css-tricks.com/snippets/html/base64-encode-of-1x1px-transparent-gif/ transparent gif
 - https://andrew.hedges.name/experiments/aspect_ratio/ aspect ratio calculator
 - https://superuser.com/questions/1421057/delete-an-unmerged-branch-in-git delete unmerged remote branch
+- https://codesandbox.io/s/ymq2qy6y51 antd table with pagination
 
 ###### Funsies
 - http://jsfiddle.net/uc9c5/2/
