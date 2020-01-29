@@ -10,6 +10,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://overreacted.io/how-are-function-components-different-from-classes/
 
 ###### Useful(and useful-ish)
+- https://scottwhittaker.net/chrome-devtools/2016/02/29/chrome-devtools-copy-object.html copy object from console
 - https://placeholder.com/
 - https://developers.facebook.com/tools/debug/
 - http://www.1x1px.me/
