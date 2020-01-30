@@ -46,6 +46,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - https://codepen.io/plasm/pen/zwjMPy - particles write text
 - http://burakcan.github.io/react-snowstorm/ - react snowstorm
 - https://api-v3.mbta.com/docs/swagger/index.html#/Vehicle/ApiWeb_VehicleController_index - MBTA api
+- http://jsfiddle.net/4e5mcmk4/ css grid background with gradients
 
 ##### Grid
 - https://gedd.ski/post/tile-layouts/
