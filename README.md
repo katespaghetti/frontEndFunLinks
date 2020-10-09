@@ -49,6 +49,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 - http://jsfiddle.net/4e5mcmk4/ css grid background with gradients
 - https://squoosh.app/ image editing
 - https://css-doodle.com/
+- https://codepen.io/Mamboleoo/pen/ZEWQgjM (animating viewBox)
 
 ##### Grid
 - https://gedd.ski/post/tile-layouts/
